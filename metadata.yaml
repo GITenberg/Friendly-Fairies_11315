@@ -1,0 +1,26 @@
+_repo: Friendly-Fairies_11315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gruelle, Johnny
+    alias: Gruelle, John B. (John Barton)
+    birthdate: 1880
+    deathdate: 1938
+    gutenberg_agent_id: '3936'
+    url: http://www.gutenberg.org/2009/agents/3936
+    wikipedia: http://en.wikipedia.org/wiki/Johnny_Gruelle
+description: Illustrated by the author.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairies -- Juvenile fiction'
+- GITenberg
+title: Friendly Fairies
+url: http://www.gutenberg.org/ebooks/11315
